@@ -7,7 +7,7 @@ import java.util.List;
 /**
  * Created by Евгений on 25.06.2017.
  * <p>
- * Class for storin large numbers. All methods in this class are <b>not</b> supporting negative numbers.;
+ * Class for storing large numbers. All methods in this class are <b>not</b> supporting negative numbers.
  */
 public class BigInt {
     private static final int INTEGER_NUMBER_MAX_LENGTH = 10;
