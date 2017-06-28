@@ -116,7 +116,7 @@ public class BigInt {
     }
 
     /**
-     * Does addition of two {@link BigInt} objects.
+     * Does long addition of two {@link BigInt} objects.
      *
      * @param other
      * @return
@@ -165,7 +165,7 @@ public class BigInt {
     }
 
     /**
-     * Does subtraction of two {@link BigInt} objects. This method can produce correct result <b>only</b> if minuend is <b>less</b> than {@code other} - subtrahend.
+     * Does long subtraction of two {@link BigInt} objects. This method can produce correct result <b>only</b> if minuend is <b>less</b> than {@code other} - subtrahend.
      *
      * @param other
      * @return
